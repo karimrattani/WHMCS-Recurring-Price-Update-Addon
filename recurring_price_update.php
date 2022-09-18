@@ -14,7 +14,7 @@ function recurring_price_update_config()
         'description' => 'Updates recurring price for all products using WHMCS Auto Recalculate feature',
            
         // Module author name
-        'author' => 'Karim Rattani',
+        'author' => 'Karim Rattani - valuehosted.com',
         // Default language
         'language' => 'english',
         // Version number
